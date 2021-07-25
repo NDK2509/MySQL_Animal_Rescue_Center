@@ -1,0 +1,21 @@
+check_date,ani_ID,res_ID,ani_status
+2021/01/15,Do,1,Broken leg
+2021/01/18,C,1,Leg injury
+2021/01/21,M,1,Ear injury
+2021/02/1,Do,2,Eye injury
+2021/02/3,La,2,Leg injury
+2021/02/4,C,2,Broken leg
+2021/02/4,C,3,Weak
+2021/02/8,R,1,Good
+2021/02/15,K,1,Head injury
+2021/02/16,B,1,Fur injury
+2021/02/19,Do,3,Weak
+2021/03/1,La,1,Tail injury
+2021/03/5,El,1,Leg injury
+2021/03/16,Li,1,Leg injury
+2021/03/19,De,1,Weak
+2021/03/19,El,2,Ear injury
+2021/03/25,M,2,Weak
+2021/04/2,M,3,Tail injury
+2021/04/7,Do,4,Leg injury
+2021/04/15,La,3,Leg injury

@@ -1,0 +1,8 @@
+Job_ID,Job_Name,Dep_ID
+LB_01,Labor,HD
+AC_01,Animal Carer,DD
+GU_01,Guard,SD
+TR_01,Treasurer,FD
+EM_01,Employee management,HRD
+ACC_1,Accountant,FD
+GD_01,Garden,HD
